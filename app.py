@@ -175,7 +175,7 @@ def main():
         else:
             st.sidebar.write("Acesso restrito ao administrador")
 
-        st.title("Assistente Analylilaw")
+        st.title("Assistente Analytilaw")
 
         # Upload de PDFs
         uploaded_files = st.file_uploader(
